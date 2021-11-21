@@ -1,0 +1,6 @@
+ca/**/certs/**
+ca/**/csr/**
+ca/**/newcerts/**
+ca/**/private/**
+ca/**/index**
+ca/**/serial**
